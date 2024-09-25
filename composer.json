@@ -1,0 +1,13 @@
+{
+    "name": "shenhai/phpgrace",
+    "description": "php",
+    "authors": [
+        {
+            "name": "hcoder",
+            "email": "5213606@qq.com",
+			"homepage": "http:\/\/www.phpgrace.com"
+        }
+    ],
+    "require": {},
+    "license": "Apache-2.0"
+}
